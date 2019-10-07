@@ -17,6 +17,8 @@ public class EscapeRoom {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("HELLO WORLD");
+        //Hello
+        System.out.println("Why is this not working"); 
     }
     
 }
